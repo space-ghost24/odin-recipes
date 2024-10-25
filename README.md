@@ -1,1 +1,1 @@
-# odin-recipes
+The Purpose of this project is to make a simple web page that links to other pages with images and lists to demonstrate basic HTML functionality.
